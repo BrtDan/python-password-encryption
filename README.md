@@ -14,7 +14,7 @@ Questo progetto implementa un sistema di gestione sicura delle password in Pytho
 2. Installa la libreria `cryptography`:
    ```bash
    pip install cryptography
-3. Esegui il file gestore_password.py per utilizzare il programma di gestione delle password.
+3. Esegui il file index.py per utilizzare il programma di gestione delle password.
 
 ## Struttura del progetto
 
